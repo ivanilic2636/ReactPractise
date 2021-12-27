@@ -1,0 +1,19 @@
+.formWrapper{
+    display:flex;
+    flex-direction: column;
+    background-color: white;
+    margin-top: 30%;
+    height: 200px;
+    width: 500px;
+    justify-content: space-evenly;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 8px;
+}
+
+.formWrapper button{
+    background-color: #9b1a9b;
+    height: 26px;
+    width: 106px;
+    color: white;
+}
